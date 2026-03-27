@@ -1,1 +1,3 @@
-README
+Secure File Vault est un outil de chiffrement de fichiers local développé en Java. Il permet de protéger des données sensibles en utilisant des standards de cryptographie industriels (AES-256).
+
+
